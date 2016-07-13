@@ -3,3 +3,4 @@ deployment:
     name: production
 prod:
   endpoint: http://localhost:8080
+need.to.change: starting
