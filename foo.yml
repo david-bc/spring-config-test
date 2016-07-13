@@ -1,1 +1,7 @@
 bar: everyone gets this!
+
+---
+
+spring:
+  profiles: nestedConfig
+bar: everyone gets this, and then some!
