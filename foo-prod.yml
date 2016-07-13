@@ -1,3 +1,5 @@
 deployment:
   stage:
     name: production
+prod:
+  endpoint: http://localhost:8080
