@@ -1,0 +1,5 @@
+deployment:
+  stage:
+    name: development
+bar:
+  baz: local testing in dev
