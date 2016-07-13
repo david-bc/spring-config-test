@@ -1,3 +1,4 @@
 info:
   description: BetterCloud Spring Cloud Config Testing Samples
   url: https://bitbucket.org/davide-bc/spring-config-test
+  version: THIS IS VERSION 4!
